@@ -1,0 +1,21 @@
+body{
+    padding: 0ch;
+    margin: 0ch;
+    max-width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    background-image: url("2000073.jpeg");
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font-style: italic;
+}
+
+h1{
+    color: whitesmoke;
+    font-size: 5em;
+}
+
+.cardbg{
+    background-color: rgb(39, 38, 38);
+}
